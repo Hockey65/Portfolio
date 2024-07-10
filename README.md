@@ -1,2 +1,5 @@
 # Portfolio
-This is a collection of work from my experience in the techNL Digital Skills Bootcamp 2024
+
+Hi, I'm Owen. This is my portfolio... 
+
+Number Guessing Game 
