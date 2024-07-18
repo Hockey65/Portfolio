@@ -6,4 +6,4 @@ Hi, I'm Owen. This is my portfolio...
 (https://cad.onshape.com/documents/149f4150d93167569eb18a05/w/b870492d434fbb16f24da897/e/9ee6ef73ace73eee79ee08ca)
 
 [Mystic Maze🧙] 
-(https://arcade.makecode.com/S32490-76638-08178-50384)
+(https://arcade.makecode.com/S32490-76638-08178-50384](https://arcade.makecode.com/S32490-76638-08178-50384)
